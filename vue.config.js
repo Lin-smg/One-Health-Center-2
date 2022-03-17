@@ -6,7 +6,7 @@ function resolveSrc(_path) {
 }
 
 module.exports = {
-  publicPath: '/pvue-light-bootstrap-dashboard/',
+  publicPath: '/vue-light-bootstrap-dashboard/',
   lintOnSave: false,
   configureWebpack: {
     // Set up all the aliases we use in our app.
