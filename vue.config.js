@@ -6,7 +6,7 @@ function resolveSrc(_path) {
 }
 
 module.exports = {
-  publicPath: '/vue-light-bootstrap-dashboard/',
+  publicPath: '/One-Health-Center-2/',
   lintOnSave: false,
   configureWebpack: {
     // Set up all the aliases we use in our app.
